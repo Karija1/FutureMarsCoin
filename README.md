@@ -1,0 +1,2 @@
+# FutureMarsCoin
+MARSFX
